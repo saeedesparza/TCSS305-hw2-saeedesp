@@ -11,7 +11,7 @@ The purpose of this assignment is to strengthen our understanding of abstraction
 its heirarchy, interfaces and their implementation, the importance of code reuse,
 and unit testing. Along with this, this assignment allows us to develop our personal
 programming style, as we were given much freedom when it came to choosing data
-structures for containing critical data state.
+structures for containing critical data state. 
 
 ## Technical Impression:
 I was reminded a lot about inheritance and the importance of code reuse.
