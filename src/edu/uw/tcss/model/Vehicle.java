@@ -120,4 +120,3 @@ public interface Vehicle {
     void setY(int theY);
 
 } // end of interface Vehicle
-
